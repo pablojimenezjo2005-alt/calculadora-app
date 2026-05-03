@@ -1,1 +1,3 @@
 Calculadora Basica: Suma Resta Y Multiplicacion
+correccion para numeros negativos activaco
+Calculadora Basica: suma y resta
